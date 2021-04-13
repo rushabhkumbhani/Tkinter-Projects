@@ -1,0 +1,23 @@
+Welcome to the Laxmi Agency Retail
+
+ Bill Number: 463755527
+ Customer Name: Nitibhai
+ Phone Number: 6353495482
+===================================
+ Products		Quantity	    Price
+===================================
+Bath Soap		1		40
+Face Wash		1		60
+Gel		1		140
+Rice		1		80
+Daal		1		60
+Wheat		1		240
+Sugar		1		45
+Thumbs Up		1		50
+Limca		1		40
+----------------------------------
+ Cosmetic Tax			Rs. 12.0
+ Grocery Tax			Rs. 42.5
+ Cold Drinks Tax			Rs. 4.5
+ Total Bill: 			Rs. 814.0
+----------------------------------

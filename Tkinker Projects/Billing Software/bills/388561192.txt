@@ -1,0 +1,21 @@
+Welcome to the Laxmi Agency Retail
+
+ Bill Number: 388561192
+ Customer Name: Rushabh Kumbhani
+ Phone Number: 6354371961
+===================================
+ Products		Quantity	    Price
+===================================
+Bath Soap		1		40
+Face Cream		2		240
+Face Wash		4		240
+Rice		2		160
+Wheat		11		2640
+Thumbs Up		2		100
+Sprite		2		120
+----------------------------------
+ Cosmetic Tax			Rs. 26.0
+ Grocery Tax			Rs. 280.0
+ Cold Drinks Tax			Rs. 11.0
+ Total Bill: 			Rs. 3857.0
+----------------------------------

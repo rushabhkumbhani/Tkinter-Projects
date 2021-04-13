@@ -1,0 +1,17 @@
+Welcome to the Laxmi Agency Retail
+
+ Bill Number: 432234660
+ Customer Name: Pritiben
+ Phone Number: 7016361820
+===================================
+ Products		Quantity	    Price
+===================================
+Face Cream		1		120
+Daal		1		60
+Frooty		1		45
+----------------------------------
+ Cosmetic Tax			Rs. 6.0
+ Grocery Tax			Rs. 6.0
+ Cold Drinks Tax			Rs. 2.25
+ Total Bill: 			Rs. 239.25
+----------------------------------
